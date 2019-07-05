@@ -7,3 +7,5 @@ Git IS a version distributed control system.
 Git IS free and good software.
 
 Git has a mutable index called stage
+
+Git tracks changes.
